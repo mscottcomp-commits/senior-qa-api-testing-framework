@@ -134,4 +134,26 @@ senior-qa-api-testing-framework/
 ├── requirements.txt
 
 └── README.md
+## Portfolio Summary
+## Test Execution Summary
+
+The API test suite includes smoke and regression coverage for the JSONPlaceholder posts endpoints.
+
+Current automated coverage includes:
+
+- GET all posts
+- GET single post by ID
+- GET multiple posts using data-driven testing
+- GET invalid post IDs for negative validation
+- POST create post
+- PUT update post
+- DELETE post
+- JSON field validation
+- JSON schema validation
+- Content-Type header validation
+- Basic response time validation
+
+The test suite can be executed locally with pytest or automatically through GitHub Actions.
+
+
 
