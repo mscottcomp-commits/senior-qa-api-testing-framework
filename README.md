@@ -1,4 +1,5 @@
-\# Senior QA API Testing Framework
+!\[API Test Automation](https://github.com/mscottcomp-commits/senior-qa-api-testing-framework/actions/workflows/api-tests.yml/badge.svg)
+# Senior QA API Testing Framework
 
 
 
